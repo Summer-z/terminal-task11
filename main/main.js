@@ -1,4 +1,5 @@
-let question = require('cli-interact').question;
+
+
 let yesNo = require('cli-interact').getYesNo;
 let num = require('cli-interact').getNumber;
 
